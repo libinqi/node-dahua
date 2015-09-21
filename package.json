@@ -1,0 +1,9 @@
+{
+  "name": "node-dahua",
+  "version": "0.0.1",
+  "description": "dahua sdk for node addon",
+  "main": "./lib/DaHuaClient.js",
+  "gypfile": true,
+  "dependencies": {
+  }
+}
